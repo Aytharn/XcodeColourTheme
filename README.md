@@ -26,7 +26,7 @@ cd ..
 rm -rf XcodeColourTheme/
 ```
 ### Swift
-![alt tag](https://github.com/Aytharn/XcodeColourTheme/Swift-Sample.jpg)
+![alt tag](https://github.com/Aytharn/XcodeColourTheme/blob/master/Swift-Sample.jpg)
 
 ### Objective-C
-![alt tag](https://github.com/Aytharn/XcodeColourTheme/Objective-C-Sample.jpg)
+![alt tag](https://github.com/Aytharn/XcodeColourTheme/blob/master/Objective-C-Sample.jpg)
